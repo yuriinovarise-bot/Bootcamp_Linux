@@ -1,0 +1,3 @@
+My first linux project
+I`m starting my own bootcamp
+and we`re going to it-admin role:)
